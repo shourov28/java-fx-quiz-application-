@@ -1,0 +1,13 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "London", "Berlin", "Madrid"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Who is the president of the USA?",
+        "options": ["Donald Trump", "Barack Obama", "Joe Biden", "George Washington"],
+        "correctAnswerIndex": 2
+    },
+    ...
+]
