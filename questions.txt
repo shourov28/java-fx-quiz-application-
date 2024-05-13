@@ -1,0 +1,30 @@
+What is the capital of France?
+Paris
+Rome
+Madrid
+Berlin
+0
+What is the largest planet in our solar system?
+Earth
+Mars
+Jupiter
+Venus
+2
+Who wrote the famous play "Romeo and Juliet"?
+William Shakespeare
+Charles Dickens
+Jane Austen
+Leo Tolstoy
+0
+What is the chemical symbol for water?
+H
+O
+W
+HO
+1
+What is the capital of Italy?
+Paris
+Rome
+Madrid
+Berlin
+1
